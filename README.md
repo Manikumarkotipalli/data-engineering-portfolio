@@ -21,7 +21,7 @@ Welcome to my Data Engineering Portfolio.
 ### Doctor Appointments Analysis
 Business KPI analysis using SQL.
 
-🔗 Repository: https://github.com/yourusername/sql-doctor-appointments
+🔗 Repository: 
 
 ### Hotstar Content Analysis
 Advanced SQL analytics on Hotstar dataset.
@@ -32,41 +32,48 @@ Advanced SQL analytics on Hotstar dataset.
 
 ## Python Projects
 
-### ETL Pipeline
-Data extraction, transformation, and loading framework.
+### Streaming Data Processing using Kafka
+Data Generation, Data Consumtion via Kafka
 
-🔗 Repository: https://github.com/yourusername/python-etl-pipeline
-
----
-
-## PySpark Projects
-
-### Data Lake ETL
-Large-scale transformations using PySpark.
-
-🔗 Repository: https://github.com/yourusername/pyspark-data-lake
+🔗 Repository: https://github.com/Manikumarkotipalli/ecommerce-streaming-platform-Kafka-Learnings.git
 
 ---
 
-## Databricks Projects
-
-### Medallion Architecture
-Bronze → Silver → Gold implementation.
-
-🔗 Repository: https://github.com/yourusername/databricks-medallion-architecture
-
----
-
-## Azure Data Factory
-
-### Metadata Driven Framework
-
-🔗 Repository: https://github.com/yourusername/adf-ingestion-framework
 
 ---
 
 ## Java Projects
 
-### Spring Boot REST API
+### Spring Boot Employee CRUD REST API + React
 
-🔗 Repository: https://github.com/yourusername/springboot-rest-api
+🔗 Repository: https://github.com/Manikumarkotipalli/Employee_CRUD.git
+
+### Spring Boot Book Management System + React
+
+🔗 Repository: https://github.com/Manikumarkotipalli/BooksManagementSystem.git
+
+### Spring Boot BreakFast Cafe Website 
+
+🔗 Repository: https://github.com/Manikumarkotipalli/breakfast-cafe.git
+
+### Spring Security User Authentication 
+
+🔗 Repository: https://github.com/Manikumarkotipalli/Springsecurity-UserAuthentication.git
+
+### Spring Boot Banking Application
+
+🔗 Repository: https://github.com/Manikumarkotipalli/Springboot-BankingApplication.git
+
+
+## .Net Projects
+
+### Windows File Watcher Service
+
+🔗 Repository: https://github.com/Manikumarkotipalli/windows-file-watcher-service.git
+
+## Websites
+
+### See You website
+See you website for Weekly Article Postings
+
+🔗 Repository: https://github.com/Manikumarkotipalli/see-you-weekly-article.git
