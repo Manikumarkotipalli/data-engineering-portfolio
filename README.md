@@ -21,14 +21,9 @@ Welcome to my Data Engineering Portfolio.
 ### Doctor Appointments Analysis
 Business KPI analysis using SQL.
 
-🔗 Repository: 
+🔗 Repository: https://github.com/Manikumarkotipalli/doctor-opointment-medicine-order-system.git
 
-### Hotstar Content Analysis
-Advanced SQL analytics on Hotstar dataset.
 
-🔗 Repository: https://github.com/yourusername/sql-hotstar-analysis
-
----
 
 ## Python Projects
 
